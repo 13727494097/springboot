@@ -1,0 +1,7 @@
+2019-03-08 16:28:38.356  INFO 18108 --- [restartedMain] com.gzx.MySpringBootApplication          : Starting MySpringBootApplication on DESKTOP-1UG0SH7 with PID 18108 (D:\gzxspace\springboot\target\classes started by admin in D:\gzxspace\springboot)
+2019-03-08 16:28:38.357  INFO 18108 --- [restartedMain] com.gzx.MySpringBootApplication          : No active profile set, falling back to default profiles: default
+2019-03-08 16:28:38.653  INFO 18108 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2019-03-08 16:28:38.654  INFO 18108 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.11
+2019-03-08 16:28:38.662  INFO 18108 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-03-08 16:28:38.896  INFO 18108 --- [restartedMain] com.gzx.MySpringBootApplication          : Started MySpringBootApplication in 0.57 seconds (JVM running for 1519.868)
+2019-03-08 16:28:46.987  INFO 18108 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
